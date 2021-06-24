@@ -10,6 +10,6 @@ Topics, Concepts, Cool packages and anything related to flutter
 
 --- 
 [![GitHub stars](https://img.shields.io/github/stars/Ritik-Saxena/Design_to_Code-Flutter?style=social)](https://github.com/Ritik-Saxena/ultimateflutter)
-[![GitHub followers](https://img.shields.io/github/followers/Ritik-Saxena?label=Followers&style=social)](https://github.com/Ritik-Saxena?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Ritik-Saxena?style=social)](https://github.com/Ritik-Saxena?tab=followers)
 [![GitHub forks](https://img.shields.io/github/forks/Ritik-Saxena/ultimateflutter?style=social)](https://github.com/Ritik-Saxena/ultimateflutter)
 [![GitHub watchers](https://img.shields.io/github/watchers/Ritik-Saxena/ultimateflutter?style=social)](https://github.com/Ritik-Saxena/ultimateflutter)
