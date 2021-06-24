@@ -1,7 +1,7 @@
 # Steps to use it
 
 1. Download zip file of repository and open folder '3d Tilt Hover Effect' in an IDE.
-2. In the terminal, navigate to hover_effect_3d folder using command,
+2. In the terminal, navigate to 'hover_effect_3d' folder using command,
 ```
 cd hover_effect_3d
 ```
