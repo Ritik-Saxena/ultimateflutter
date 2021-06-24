@@ -11,7 +11,7 @@ cd hover_effect_3d
 flutter run ––no-sound-null-safety
 ```
 
-Note: Dependency hover_effect do not offer null safety. So using only ```flutter run``` might give error.
+Note: Dependency 'hover_effect' do not offer null safety. So using only ```flutter run``` might give error.
 
 ---
 ## Output
