@@ -1,16 +1,15 @@
-# glassmorphism_card
+<img src="https://user-images.githubusercontent.com/62079355/121505629-9f847180-ca00-11eb-8db6-155e61a091a5.png" align="right" style: height=150 width=150/>
 
-A new Flutter project.
+# Flutter Concepts & More Stuff [![Instagram](https://img.shields.io/twitter/url?label=%40ritiksaxenaofficial&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fritiksaxenaofficial%2F)](https://www.instagram.com/ritiksaxenaofficial/)
+> Connect with me on Instagram <a href='https://www.instagram.com/ritiksaxenaofficial/'>@ritiksaxenaofficial</a>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Topics, Concepts, Cool packages and anything related to flutter
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+--- 
+[![GitHub stars](https://img.shields.io/github/stars/Ritik-Saxena/Design_to_Code-Flutter?style=social)](https://github.com/Ritik-Saxena/ultimateflutter)
+[![GitHub followers](https://img.shields.io/github/followers/Ritik-Saxena?style=social)](https://github.com/Ritik-Saxena?tab=followers)
+[![GitHub forks](https://img.shields.io/github/forks/Ritik-Saxena/ultimateflutter?style=social)](https://github.com/Ritik-Saxena/ultimateflutter)
+[![GitHub watchers](https://img.shields.io/github/watchers/Ritik-Saxena/ultimateflutter?style=social)](https://github.com/Ritik-Saxena/ultimateflutter)
