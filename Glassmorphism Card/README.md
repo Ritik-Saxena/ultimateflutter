@@ -18,8 +18,7 @@
 
 ---
 ## Output
-<img src="https://user-images.githubusercontent.com/62079355/124397187-22f96000-dd2c-11eb-8d14-fb74b5f06361.PNG" height=600, width=300>
-
+<img src="https://user-images.githubusercontent.com/62079355/124398244-4c1cef00-dd32-11eb-8b47-c2d9821a9cc5.PNG" height=600, width=300>
 
 ---
 ## Speed Code
