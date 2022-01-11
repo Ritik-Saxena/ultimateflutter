@@ -1,16 +1,42 @@
-# food_app_ui
+# Food App UI using Flutter 
+> Connect with me on Instagram 
+[![Instagram](https://img.shields.io/twitter/url?label=%40ultimateflutter&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fultimateflutter%2F)](https://www.instagram.com/ultimateflutter/)
+&nbsp;
+[![Instagram](https://img.shields.io/twitter/url?label=%40ritiksaxenaofficial&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fritiksaxenaofficial%2F)](https://www.instagram.com/ritiksaxenaofficial/)
 
-A new Flutter project.
+<br>
+<b>Design credits:</b> <a href="https://www.instagram.com/rish_designs/">@rish_designs</a> <br>
+<br> 
 
-## Getting Started
+Food app UI built-in Flutter. It was a great experience to code a UI with a clean and elegant design and nice user experience.
+<br><br>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+---
+## Output
+<table style='cellspacing="0"'>
+  <tr>
+    <th>UI Design</th>
+     <th>Code result</th>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/62079355/148993180-0c54b2d3-52c8-4316-b7cd-641c85ac103f.png" height=609, width=281></td>
+    <td><img src="https://user-images.githubusercontent.com/62079355/148988478-441d9a5f-857f-4411-9606-c05598a6c306.png" height=609, width=281></td>
+  </tr>
+ </table>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## Preview
+<img src="https://user-images.githubusercontent.com/62079355/148988249-c87538dd-b8c2-4af0-b8ba-5d45c175f152.gif" height=600, width=290>
+
+<br><br>
+
+---
+If you like this repository, do star, fork, and follow for more amazing stuff coming soon.
+---
+[![GitHub stars](https://img.shields.io/github/stars/Ritik-Saxena/Design_to_Code-Flutter?style=social)](https://github.com/Ritik-Saxena/ultimateflutter)
+[![GitHub followers](https://img.shields.io/github/followers/Ritik-Saxena?label=Followers&style=social)](https://github.com/Ritik-Saxena?tab=followers)
+[![GitHub forks](https://img.shields.io/github/forks/Ritik-Saxena/ultimateflutter?style=social)](https://github.com/Ritik-Saxena/ultimateflutter)
+[![GitHub watchers](https://img.shields.io/github/watchers/Ritik-Saxena/ultimateflutter?style=social)](https://github.com/Ritik-Saxena/ultimateflutter)
