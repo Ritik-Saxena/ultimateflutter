@@ -31,7 +31,7 @@ Food app UI built-in Flutter. It was a great experience to code a UI with a clea
 ## Preview
 <img src="https://user-images.githubusercontent.com/62079355/148988249-c87538dd-b8c2-4af0-b8ba-5d45c175f152.gif" height=600, width=290>
 
-<br><br>
+<br>
 
 ---
 If you like this repository, do star, fork, and follow for more amazing stuff coming soon.
