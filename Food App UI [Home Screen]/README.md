@@ -5,12 +5,11 @@
 [![Instagram](https://img.shields.io/twitter/url?label=%40ritiksaxenaofficial&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fritiksaxenaofficial%2F)](https://www.instagram.com/ritiksaxenaofficial/)
 
 <br>
-<b>Design credits:</b> <a href="https://www.instagram.com/rish_designs/">@rish_designs</a> <br>
 <br> 
 
 Food app UI built-in Flutter. It was a great experience to code a UI with a clean and elegant design and nice user experience.
 <br><br>
-
+<b>Design credits:</b> <a href="https://www.instagram.com/rish_designs/">@rish_designs</a> <br>
 
 
 ---
