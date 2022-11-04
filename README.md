@@ -13,14 +13,37 @@ Topics, Concepts, Cool packages and anything related to flutter
 <table style='cellspacing="0"'>
   <tr>
     <th>Code Link</th>
-     <th>Code result</th>
+    <th>Code result</th>
   </tr>
   <tr>
     <td><a href="https://github.com/Ritik-Saxena/ultimateflutter/tree/Flutter/Food%20App%20UI%20%5BHome%20Screen%5D">Food App UI</a></td>
-    <td><img src="https://user-images.githubusercontent.com/62079355/148988478-441d9a5f-857f-4411-9606-c05598a6c306.png" alt="Food App UI.pngf" height=457, width=211></td>
-    <tr>
-    <td><a href="https://github.com/Ritik-Saxena/ultimateflutter/tree/Flutter/Food%20App%20UI%20%5BHome%20Screen%5D">Food App UI</a></td>
-    <td><img src="https://user-images.githubusercontent.com/62079355/148988478-441d9a5f-857f-4411-9606-c05598a6c306.png" alt="Food App UI.png" height=457, width=211></td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/62079355/148988478-441d9a5f-857f-4411-9606-c05598a6c306.png" alt="Food App UI.pngf" height=457, width=211
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Ritik-Saxena/ultimateflutter/tree/Flutter/Marvel%20UI">Marvel UI</a></td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/62079355/197539162-3d388fe2-c06e-4936-b9f9-4a4420188c8c.png" alt="Marvel UI.png" height=457, width=211>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Ritik-Saxena/ultimateflutter/tree/Flutter/Glassmorphism%20Card">Glassmorphism Card</a></td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/62079355/124398244-4c1cef00-dd32-11eb-8b47-c2d9821a9cc5.PNG" alt="Glassmorphism Card.png" height=457, width=211>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Ritik-Saxena/ultimateflutter/tree/Flutter/Card%20Designs">Card Designs</a></td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/62079355/125661351-760fbf2f-87d3-463c-8f97-86931b558f17.jpg" alt="Card Designs.png" height=457, width=211>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Ritik-Saxena/ultimateflutter/tree/Flutter/3D%20Tilt%20Hover%20Effect">3D Hover Effect</a></td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/62079355/200074398-242381fc-5f4c-4573-9d5f-28fb420b851f.gif" object-fit: cover alt="3D Hover Effect.png" height=457, width=211>
+    </td>
   </tr>
  </table>
 
