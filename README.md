@@ -48,6 +48,8 @@ Topics, Concepts, Cool packages and anything related to flutter
  </table>
 
 --- 
+If you like this repository, do star, fork, and follow for more amazing stuff coming soon.
+---
 [![GitHub stars](https://img.shields.io/github/stars/Ritik-Saxena/ultimateflutter?style=social)](https://github.com/Ritik-Saxena/ultimateflutter)
 [![GitHub followers](https://img.shields.io/github/followers/Ritik-Saxena?style=social)](https://github.com/Ritik-Saxena?tab=followers)
 [![GitHub forks](https://img.shields.io/github/forks/Ritik-Saxena/ultimateflutter?style=social)](https://github.com/Ritik-Saxena/ultimateflutter)
