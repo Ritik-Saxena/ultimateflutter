@@ -6,7 +6,23 @@
 
 Topics, Concepts, Cool packages and anything related to flutter
 
+---
 
+### Preview of all the files:
+
+<table style='cellspacing="0"'>
+  <tr>
+    <th>Code Link</th>
+     <th>Code result</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Ritik-Saxena/ultimateflutter/tree/Flutter/Food%20App%20UI%20%5BHome%20Screen%5D">Food App UI</a></td>
+    <td><img src="https://user-images.githubusercontent.com/62079355/148988478-441d9a5f-857f-4411-9606-c05598a6c306.png" alt="Food App UI.pngf" height=457, width=211></td>
+    <tr>
+    <td><a href="https://github.com/Ritik-Saxena/ultimateflutter/tree/Flutter/Food%20App%20UI%20%5BHome%20Screen%5D">Food App UI</a></td>
+    <td><img src="https://user-images.githubusercontent.com/62079355/148988478-441d9a5f-857f-4411-9606-c05598a6c306.png" alt="Food App UI.png" height=457, width=211></td>
+  </tr>
+ </table>
 
 --- 
 [![GitHub stars](https://img.shields.io/github/stars/Ritik-Saxena/ultimateflutter?style=social)](https://github.com/Ritik-Saxena/ultimateflutter)
