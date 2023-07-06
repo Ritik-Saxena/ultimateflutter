@@ -4,7 +4,7 @@
 > Connect with me on Instagram <a href='https://www.instagram.com/ritiksaxenaofficial/'>@ritiksaxenaofficial</a>
 
 
-Topics, Concepts, Cool packages and anything related to flutter
+Topics, Concepts, Cool packages, and anything related to Flutter
 
 ---
 
