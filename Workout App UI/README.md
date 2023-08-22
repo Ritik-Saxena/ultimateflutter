@@ -11,17 +11,15 @@ Welcome to the Workout App UI project developed using the Flutter framework. Thi
 <br>
 <b>Design credits:</b> <a href="https://www.figma.com/@inspireui">@inspireui</a> <br>
 
-
+<br>
 ## Implementation Details
 
 The Workout App UI is built using the Flutter framework and employs the Bloc state management approach for managing bottom navigation. The app features a custom navigation bar with dynamic dot indicators that visually guide users through the various sections of the app.
-
+<br>
 ### State Management
 
-- Tab indicators are managed using the Bloc pattern. Tab changes are tracked using events, and the state of the selected tab is updated accordingly.
-
-- Bottom navigation is also implemented using Bloc. The bottom navigation bar dynamically changes the selected item and updates the UI based on user interaction.
-
+- Bottom navigation is implemented using Bloc. The bottom navigation bar dynamically changes the selected item and updates the UI based on user interaction.
+<br>
 ### Widgets and UI
 
 - The app features a home screen with a custom AppBar and workout data cards.
