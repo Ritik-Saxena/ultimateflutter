@@ -1,5 +1,5 @@
 
-# Workout App UI - Flutter <img align='right' src='https://github.com/Ritik-Saxena/ultimateflutter/assets/62079355/0f7da6b5-e471-4864-843d-5d36f3c52f6b' width='200'>
+# Workout App UI - Flutter <img align='right' src='https://github.com/Ritik-Saxena/ultimateflutter/assets/62079355/0f7da6b5-e471-4864-843d-5d36f3c52f6b' width='250'>
 
 > Connect with me on Instagram 
 [![Instagram](https://img.shields.io/twitter/url?label=%40ultimateflutter&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fultimateflutter%2F)](https://www.instagram.com/ultimateflutter/)
