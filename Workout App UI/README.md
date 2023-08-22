@@ -1,16 +1,34 @@
-# Food App UI using Flutter 
+# Workout App UI - Flutter 
 > Connect with me on Instagram 
 [![Instagram](https://img.shields.io/twitter/url?label=%40ultimateflutter&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fultimateflutter%2F)](https://www.instagram.com/ultimateflutter/)
 &nbsp;
 [![Instagram](https://img.shields.io/twitter/url?label=%40ritiksaxenaofficial&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fritiksaxenaofficial%2F)](https://www.instagram.com/ritiksaxenaofficial/)
 
 <br>
- 
 
-Food app UI built-in Flutter. It was a great experience to code a UI with a clean and elegant design and a nice user experience.
-<br><br>
-<b>Design credits:</b> <a href="https://www.instagram.com/rish_designs/">@rish_designs</a> <br>
+Welcome to the Workout App UI project developed using the Flutter framework. This repository showcases a beautifully designed workout app user interface that includes tabs and a bottom navigation bar. The bottom navigation bar is implemented using the Bloc state management pattern for a seamless user experience. 
 
+<br>
+<b>Design credits:</b> <a href="https://www.figma.com/@inspireui">@inspireui</a> <br>
+
+
+## Implementation Details
+
+The Workout App UI is built using the Flutter framework and employs the Bloc state management approach for managing bottom navigation. The app features a custom navigation bar with dynamic dot indicators that visually guide users through the various sections of the app.
+
+### State Management
+
+- Tab indicators are managed using the Bloc pattern. Tab changes are tracked using events, and the state of the selected tab is updated accordingly.
+
+- Bottom navigation is also implemented using Bloc. The bottom navigation bar dynamically changes the selected item and updates the UI based on user interaction.
+
+### Widgets and UI
+
+- The app features a home screen with a custom AppBar and workout data cards.
+
+- The bottom navigation bar provides quick access to different sections of the app, enhancing user navigation.
+
+- Tabs are used to categorize exercises, making it easy for users to find their desired workout routines.
 
 ---
 ## Output
@@ -31,6 +49,24 @@ Food app UI built-in Flutter. It was a great experience to code a UI with a clea
 <img src="https://user-images.githubusercontent.com/62079355/148988249-c87538dd-b8c2-4af0-b8ba-5d45c175f152.gif" height=600, width=290>
 
 <br>
+
+
+
+
+
+## Contributions
+
+Contributions are welcome! If you find any issues or have ideas for improvements, feel free to submit a pull request or open an issue.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Feel free to customize this README template to match the specifics of your project and provide more detailed instructions, tips, and information about the features and functionalities of your Workout App UI. Good luck with your project!
+
+
 
 ---
 If you like this repository, do star, fork, and follow for more amazing stuff coming soon.
