@@ -1,4 +1,6 @@
-# Workout App UI - Flutter 
+
+# Workout App UI - Flutter <img align='right' src='https://github.com/Ritik-Saxena/ultimateflutter/assets/62079355/0f7da6b5-e471-4864-843d-5d36f3c52f6b' width='200'>
+
 > Connect with me on Instagram 
 [![Instagram](https://img.shields.io/twitter/url?label=%40ultimateflutter&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fultimateflutter%2F)](https://www.instagram.com/ultimateflutter/)
 &nbsp;
@@ -12,6 +14,7 @@ Welcome to the Workout App UI project developed using the Flutter framework. Thi
 <b>Design credits:</b> <a href="https://www.figma.com/@inspireui">@inspireui</a> <br>
 
 <br>
+
 ## Implementation Details
 
 The Workout App UI is built using the Flutter framework and employs the Bloc state management approach for managing bottom navigation. The app features a custom navigation bar with dynamic dot indicators that visually guide users through the various sections of the app.
@@ -20,6 +23,7 @@ The Workout App UI is built using the Flutter framework and employs the Bloc sta
 
 - Bottom navigation is implemented using Bloc. The bottom navigation bar dynamically changes the selected item and updates the UI based on user interaction.
 <br>
+
 ### Widgets and UI
 
 - The app features a home screen with a custom AppBar and workout data cards.
@@ -28,7 +32,8 @@ The Workout App UI is built using the Flutter framework and employs the Bloc sta
 
 - Tabs are used to categorize exercises, making it easy for users to find their desired workout routines.
 
----
+<br>
+
 ## Output
 <table style='cellspacing="0"'>
   <tr>
@@ -41,33 +46,17 @@ The Workout App UI is built using the Flutter framework and employs the Bloc sta
   </tr>
  </table>
 
----
+<br>
 
 ## Preview
-<img src="https://user-images.githubusercontent.com/62079355/148988249-c87538dd-b8c2-4af0-b8ba-5d45c175f152.gif" height=600, width=290>
+<img src="https://github.com/Ritik-Saxena/ultimateflutter/assets/62079355/f1813519-8705-4d50-bb4b-6cadd45dcf3f" height=600, width=290>
 
 <br>
 
 
-
-
-
-## Contributions
-
-Contributions are welcome! If you find any issues or have ideas for improvements, feel free to submit a pull request or open an issue.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
+If you like this repository, do <img src="https://user-images.githubusercontent.com/62079355/200077014-f3e95bba-57a6-4c7a-b26a-212bf18e5162.png" width=25 height=25> and <img src="https://user-images.githubusercontent.com/62079355/220893415-ea2015e9-6df6-4de2-ab66-041a3f890be2.png" width=25 height=25> the repo for more amazing stuff coming soon.
 
-Feel free to customize this README template to match the specifics of your project and provide more detailed instructions, tips, and information about the features and functionalities of your Workout App UI. Good luck with your project!
-
-
-
----
-If you like this repository, do star, fork, and follow for more amazing stuff coming soon.
 ---
 [![GitHub stars](https://img.shields.io/github/stars/Ritik-Saxena/ultimateflutter?style=social)](https://github.com/Ritik-Saxena/ultimateflutter)
 [![GitHub followers](https://img.shields.io/github/followers/Ritik-Saxena?label=Followers&style=social)](https://github.com/Ritik-Saxena?tab=followers)
