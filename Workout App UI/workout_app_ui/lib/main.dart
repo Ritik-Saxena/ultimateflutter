@@ -27,7 +27,7 @@ class WorkoutAppUI extends StatelessWidget {
     return BlocProvider(
       create: (context) => TabIndicatorBloc(),
       child: MaterialApp(
-        title: 'Flutter Demo',
+        debugShowCheckedModeBanner: false,
         theme: ThemeData(
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
           useMaterial3: true,
