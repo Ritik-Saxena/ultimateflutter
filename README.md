@@ -14,17 +14,31 @@ Topics, Concepts, Cool packages, and anything related to Flutter
   <tr>
     <th>Code Link</th>
     <th>Code result</th>
+    <th>Preview</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Ritik-Saxena/ultimateflutter/tree/Flutter/Workout%20App%20UI">Workout App UI</a></td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/62079355/261990231-40f38662-04d1-4e91-8ec1-63ce46627a83.png" alt="Workout App UI.png" height=457, width=211>
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/62079355/262345760-f1813519-8705-4d50-bb4b-6cadd45dcf3f.gif" alt="Workout App UI.png" height=457, width=211>
+    </td>
+    
   </tr>
   <tr>
     <td><a href="https://github.com/Ritik-Saxena/ultimateflutter/tree/Flutter/Food%20App%20UI%20%5BHome%20Screen%5D">Food App UI</a></td>
     <td>
-      <img src="https://user-images.githubusercontent.com/62079355/148988478-441d9a5f-857f-4411-9606-c05598a6c306.png" alt="Food App UI.pngf" height=457, width=211
+      <img src="https://user-images.githubusercontent.com/62079355/148988478-441d9a5f-857f-4411-9606-c05598a6c306.png" alt="Food App UI.png" height=457, width=211>
     </td>
   </tr>
   <tr>
     <td><a href="https://github.com/Ritik-Saxena/ultimateflutter/tree/Flutter/Marvel%20UI">Marvel UI</a></td>
     <td>
       <img src="https://user-images.githubusercontent.com/62079355/197539162-3d388fe2-c06e-4936-b9f9-4a4420188c8c.png" alt="Marvel UI.png" height=457, width=211>
+    </td>
+     <td>
+      <img src="https://user-images.githubusercontent.com/62079355/197543560-68a5a925-b6d6-4a99-ba6d-6083e373b4f9.gif" alt="Marvel UI.png" height=457, width=241>
     </td>
   </tr>
   <tr>
