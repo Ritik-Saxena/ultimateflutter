@@ -1,5 +1,7 @@
 # 3D Tilt Hover Effect <br> 
 [![LinkedIn](https://img.shields.io/twitter/url?label=%40ritik-saxena&logo=LinkedIn&style=social&url=https://www.linkedin.com/in/ritik-saxena)](https://www.linkedin.com/in/ritik-saxena)&nbsp;[![Instagram](https://img.shields.io/twitter/url?label=%40ritiksaxenaofficial&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fritiksaxenaofficial%2F)](https://www.instagram.com/ritiksaxenaofficial/)&nbsp;[![Instagram](https://img.shields.io/twitter/url?label=%40ultimateflutter&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fultimateflutter%2F)](https://www.instagram.com/ultimateflutter/)
+> Connect with me on <a href='https://www.linkedin.com/in/ritik-saxena'>LinkedIn</a>
+
 
 
 
